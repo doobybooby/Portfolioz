@@ -1,5 +1,6 @@
-
-* New Picture
+TODO:
+* New Logo
+* New Personal Picture
 * More mobile friendly
 * update projects
   - 3 Project links
